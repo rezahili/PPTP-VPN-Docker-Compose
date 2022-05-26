@@ -1,4 +1,4 @@
-# PPTP docker-vpn
+# PPTP Docker-Compose-VPN
 Run your own  vpn on your vps or server just in 2 seconds using docker and docker-compse
 I prefer to buy a vps (1G RAM) from OVH and set up an ubuntu 20.04 or centos7
 
