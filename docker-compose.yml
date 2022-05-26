@@ -1,0 +1,10 @@
+version: '3'
+services:
+  pptp:
+    image: mmontagna/docker-vpn-pptp:latest
+    container_name: pptp
+    privileged: true
+    restart: always
+    network_mode: host
+    environment:
+      - client=${PPTP_USER_LIST}
