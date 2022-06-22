@@ -9,7 +9,7 @@ https://docs.docker.com/engine/install
 ## Step 2
 change `.env.list ` file for your username and password ( you can change using vi or nano editor ) :
 
-PPTP_USER_LIST="username1 * password1 * \n username2 * password2 *"
+` PPTP_USER_LIST="username1 * password1 * \n username2 * password2 *" `
 
 ## Step 3
 
