@@ -14,7 +14,7 @@ change `.env.list ` file for your username and password ( you can change using v
 ## Step 3
 
 In project directory use this commond to run it:
-` docker-compose up `
-and if you want to stop use ` docker-compose down `
+` docker compose up `
+and if you want to stop use ` docker compose down `
 
 
